@@ -1,0 +1,14 @@
+2
+[0]
+<<<
+Você está em uma encruzilhada. 
+>>><1>
+***
++ 1. Caminho da esquerda.
+***
+[1]
+<<<
+Fim da jornada.
+>>><FAILED>
+0
+2

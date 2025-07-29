@@ -1,0 +1,14 @@
+2
+[0]
+<<<
+Você está em uma sala com uma porta dourada. 
+>>><1>
+***
++ 1. Abrir a porta dourada.
+***
+[1]
+<<<
+A porta se abre revelando um tesouro brilhante. Você venceu!
+>>><WON>
+0
+1

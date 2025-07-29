@@ -1,0 +1,19 @@
+3
+[0]
+<<<
+Você está na beira de um penhasco.
+>>><1>
+***
++ 1. Pular.
++ 2. Recuar.
+***
+[1]
+<<<
+Você caiu no abismo. Fim.
+>>><FAILED>
+[2]
+<<<
+Vitória!
+>>><WON>
+0
+1

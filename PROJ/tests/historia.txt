@@ -1,0 +1,51 @@
+4
+[0]
+<<<
+A sua aventura — tal como a sua sanidade — chegou a um cruzamento.
+À direita, a floresta das Sombras Eternas sussurra segredos que não
+deviam ser ouvidos. À esquerda, o Deserto dos Ossos Quebrados
+estala a sua esperança de qualquer salvação. Inspire o medo. Expire
+a esperança. Faça a sua escolha.
+>>><2>
+***
++ 1. Seguir para a floresta das Sombras Eternas.
++ 2. Seguir para o deserto dos Ossos Quebrados.
+***
+[1]
+<<<
+Atravessa o limiar da floresta, onde a luz hesita e os sussurros
+não têm dono. As árvores parecem mover-se, como se respirassem com
+a noite. Algo observa. Algo sempre observou. Cada passo é engolido
+pelo musgo e pela memória de quem nunca regressou. Mas agora é
+tarde para recuar — ou será que não?
+>>><3>
+***
++ 0. Voltar para trás
++ 2. Seguir para o deserto dos Ossos Quebrados.
++ 3. Seguir em frente.
+***
+[2]
+<<<
+Num último espasmo de coragem — ou loucura — lança-se para a
+escuridão gotejante da gruta, fugindo no pânico cego da criatura
+cujo bafo pútrido já aquece a sua nuca como um presságio do fim.
+Mas é inútil. Ela conhece todos os seus recantos como se fosse a
+luz negra da sua alma. A gruta é dela. Sempre foi. E agora, também
+é sua. Garras surgem das trevas e, num único movimento bruto,
+rasgam-no em dois, num terror estupefacto, sem um único grito. Só
+vísceras.
+Morreu.
+>>><FAILED>
+[3]
+<<<
+A lâmina treme nas suas mãos — ou será o mundo que treme? Com um
+grito que já não é de medo, mas de fúria ancestral, desce o golpe
+final. A criatura contorce-se, guincha, parte-se em fumo e
+silêncio. A escuridão recua. O ar volta aos pulmões.
+Sobreviveu. Venceu. Mas terá paz?
+>>><WON>
+1
+0
+1
+0
+2

@@ -1,0 +1,18 @@
+1
+[0]
+<<<
+Sala com 11 portas.
+>>><11>
+***
++ 1. Porta 1.
++ 2. Porta 2.
++ 3. Porta 3.
++ 4. Porta 4.
++ 5. Porta 5.
++ 6. Porta 6.
++ 7. Porta 7.
++ 8. Porta 8.
++ 9. Porta 9.
++ 10. Porta 10.
++ 11. Porta 11.
+***
